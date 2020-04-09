@@ -1,5 +1,6 @@
 # fileuploadReactSpringBoot
 Url : https://fileuploadamila.herokuapp.com/
+
 #######
 Technoliges
   *React
@@ -15,11 +16,14 @@ change database name and credentials
 run spring boot application
 
 #######
+
+
 Take the uploaded ZIP file, which contain some files inside (can be many).
 
-
 Extract content of each file in the ZIP.
+
 File format: each line will contain ISO Alpha-2 country code. Example 
+
 file attached in attachments section below.
 
 
