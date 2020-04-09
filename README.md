@@ -2,12 +2,14 @@
 Url : https://fileuploadamila.herokuapp.com/
 
 #######
+
 Technoliges
   *React
   *Spring boot(Java 8)
   *MySQl
   
 #######
+
 Clone repo
 cd uploadfile
     npm install
@@ -16,7 +18,6 @@ change database name and credentials
 run spring boot application
 
 #######
-
 
 Take the uploaded ZIP file, which contain some files inside (can be many).
 
